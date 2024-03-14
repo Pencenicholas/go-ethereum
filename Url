@@ -1,0 +1,1 @@
+$ geth --datadir=path/to/custom/data/folder --bootnodes=<bootnode-enode-url-from-above>
